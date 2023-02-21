@@ -2,7 +2,7 @@
 
 /**
  * main - check the code
- *
+ * Description: 'unction that prints the alphabe'
  * Return: Always 0.
  */
 int main(void)
