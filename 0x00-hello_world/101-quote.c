@@ -2,7 +2,7 @@
 #include <unistd.h>
 
 /**
- * main - A program
+ * main - A program to understand unix
  * return 1 (Success)
  */
 
